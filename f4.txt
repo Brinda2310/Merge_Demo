@@ -1,3 +1,9 @@
 This is the first file in branch b3
 
 file name f4.txt
+
+brinda b3 merge with branch b2
+
+now branch b2 merge qwith master branch
+
+
